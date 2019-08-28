@@ -7,7 +7,7 @@
 }
 /* =======================================================
 *
-* 	Template Style 
+* 	Template Style
 *	Edit this section
 *
 * ======================================================= */
@@ -21,6 +21,11 @@ body {
   background: #fff;
   height: 100%;
   position: relative;
+}
+
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
 }
 
 a {
