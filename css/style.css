@@ -23,11 +23,6 @@ body {
   position: relative;
 }
 
-html, body {
-    max-width: 100%;
-    overflow-x: hidden;
-}
-
 a {
   color: #4AE3B5;
   -webkit-transition: 0.5s;
